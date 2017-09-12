@@ -1,3 +1,3 @@
 # hello-world
 My first repository on github
-I am starting to use github
+I want to be a coder and post my work in github
